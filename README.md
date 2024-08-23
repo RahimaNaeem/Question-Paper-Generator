@@ -19,6 +19,7 @@ The questions can be categorized into different types, including multiple-choice
 -	**Question Paper Management:** Displays all generated questions in a question paper format, with options to move questions up or down, remove questions, and update the question paper.
 -	**Local Storage:** Stores all generated questions locally, allowing users to access and manage their questions/question paper offline.
 -	**Modal Windows:** Uses modal windows to confirm question removal and display question details.
+-	**Deploy:** Deployed using firebase.
 
 
 **Technical Details:**
